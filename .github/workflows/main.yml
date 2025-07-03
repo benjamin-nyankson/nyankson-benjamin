@@ -53,13 +53,13 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: gabriel_rockson
+          plugin_wakatime_user: benjamin_nyankson
 
           # Latest posts from your dev.to or medium
           plugin_posts: yes
           plugin_posts_source: dev.to    # or medium
           plugin_posts_limit: 4
-          plugin_posts_user: gabrielrockson
+          plugin_posts_user: nyanksonbenjamin4
 
           # Coding habits analysis
           plugin_code: yes
